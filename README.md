@@ -1,2 +1,2 @@
 # uta-aca
-Sitio web en Laravel 6 para acceso desde Heroku: https://uta-aca.herokuapp.com/
+Sitio web basado en Quickadmin Panel en Laravel 6 v6.15.1 para acceso desde Heroku: https://utaca.herokuapp.com/
